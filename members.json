@@ -1,0 +1,14 @@
+{
+    "123": {
+        "name": "abcd",
+        "member_id": "123",
+        "borrowed_books": [
+            "1234"
+        ]
+    },
+    "321": {
+        "name": "asdf",
+        "member_id": "321",
+        "borrowed_books": []
+    }
+}

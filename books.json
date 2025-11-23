@@ -1,0 +1,14 @@
+{
+    "123456": {
+        "title": "Full Stack",
+        "author": "ABC",
+        "isbn": "123456",
+        "available": true
+    },
+    "1234": {
+        "title": "Python",
+        "author": "XYZ",
+        "isbn": "1234",
+        "available": false
+    }
+}
